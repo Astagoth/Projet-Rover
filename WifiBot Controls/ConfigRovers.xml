@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rovers xmlns="BillyRover.com">
+  <Rov1>
+    <Nom name="Rover 1"/>
+    <Adresse adr="192.168.1.106"/>
+    <Port prt="54000"/>
+  </Rov1>
+</Rovers>

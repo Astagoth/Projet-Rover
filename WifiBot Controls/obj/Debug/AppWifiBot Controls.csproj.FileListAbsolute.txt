@@ -1,0 +1,11 @@
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\bin\Debug\AppWifiBot Controls.exe.config
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\bin\Debug\AppWifiBot Controls.exe
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\bin\Debug\AppWifiBot Controls.pdb
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot Controls.csprojAssemblyReference.cache
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot_Controls.IHMMenu.resources
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot_Controls.IhmPrincipale.resources
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot_Controls.Properties.Resources.resources
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot Controls.csproj.GenerateResource.cache
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot Controls.exe
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot Controls.pdb
+C:\Users\jorda\OneDrive\Bureau\Projet Dead By Rover\AppWifiBot Controls\obj\Debug\AppWifiBot_Controls.IHMFicheIntervention.resources
