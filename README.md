@@ -29,3 +29,4 @@ Each one of us were assigned with a specific task :
 ## Note :
 
 This project is not finished and only in prototype version, could not finished due to the sudden appearance of COVID in march 2020, so teachers canceled all projects.
+This project also include only my part of work (Dufour Jordan) so you will only find all the classes and code for the winforms app.
