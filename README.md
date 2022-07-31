@@ -21,7 +21,7 @@ We were in a team of 4 students :
 Each one of us were assigned with a specific task :
 
 * Théo : In charge of choosing the sensors, coding them and integrate them in the rover
-* Gaetann : In charge of the embedded system in the rover, sending sensors informations to the app, receiving app orders and sending them to the rotors of the rover
+* Gaetan : In charge of the embedded system in the rover, sending sensors informations to the app, receiving app orders and sending them to the rotors of the rover
 * Benjamin : In charge of the rotors which receive orders from the embedded system, translate orders to RS232 protocol
 * Jordan : In charge of designing and coding of the app that the technician will use to control the rover, receive sensors informations and send orders to embedded system via TCP/IP protocol
 
